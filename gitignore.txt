@@ -1,3 +1,4 @@
 .obsidian
 target/
-.trash
+.trash/
+.DS_Store
