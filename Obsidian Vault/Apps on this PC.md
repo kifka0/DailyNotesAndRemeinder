@@ -1,3 +1,6 @@
+!not everything is ==apple==
+a la fin il y a plus les applications par défault des macs
+
 1. App Store
 2. Automator
 3. Be focused
@@ -55,6 +58,3 @@
 55. Whatsapp Beta
 56. Xcode
 57. Visual studio code
-![[Screenshot 2023-07-24 at 02.54.35.png]]
-![[Screenshot 2023-07-24 at 02.53.09.png]]
-![[Screenshot 2023-07-24 at 02.48.56.png]]
